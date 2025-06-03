@@ -1,0 +1,32 @@
+{
+  "name": "lyrra-vanth",
+  "version": "3.0.0",
+  "description": "WhatsApp Meta Ai Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "zarv7z",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "@lyrra-evanth/src-yt": "^1.2.0",
+    "@leoo-vanth/zarv-vz": "latest",
+    "awesome-phonenumber": "^2.64.0",
+    "baileys": "npm:@fizzxydev/baileys-pro@^8.7.1",
+    "chalk": "^4.1.1",
+    "canvas": "^2.11.2",
+    "cheerio": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "js-beautify": "^1.15.1",
+    "javascript-obfuscator": "^4.1.0",
+    "moment-timezone": "^0.5.46",
+    "ms": "^2.1.3",
+    "node-webpmux": "^3.1.0",
+    "node-os-utils": "1.3.7",
+    "node-prettier": "^1.4.7",
+    "parse-ms": "^2.1.0",
+    "pino": "^8.3.0",
+    "qrcode": "^1.5.0"
+  }
+}
