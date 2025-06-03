@@ -12,8 +12,8 @@ global.sessionName = "session" // Nama file session
 global.storename = "Babunya Afgan" // Store name
 global.botname = "Babunya Afgan" // Bot name
 global.ownername = "Afgan" // Owner name
-global.owner = "628985720808" // Owner number
-global.botNumber = "6283893078836" //  Bot number
+global.owner = "628985720808", "628998111425" // Owner number
+global.botNumber = "6287745248109" //  Bot number
 global.version = "3.0.0" // Version
 
 global.packname = "Basurnya Afgan" // Sticker packname 
