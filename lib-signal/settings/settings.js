@@ -9,18 +9,18 @@ global.broswer = "Firefox" // Server Browser
 global.sessionName = "session" // Nama file session
 
 // ================= [ BOT PROFILE SETTINGS ] ================= //
-global.storename = "𝘓𝘺𝘺𝘳𝘢 𝘌𝘷𝘢𝘯𝘵𝘩𝘦 🍃" // Store name
-global.botname = "𝘓𝘺𝘺𝘳𝘢 𝘌𝘷𝘢𝘯𝘵𝘩𝘦 🍃" // Bot name
-global.ownername = "Ayame Senpai" // Owner name
-global.owner = "6282261639578" // Owner number
+global.storename = "Babunya Afgan" // Store name
+global.botname = "Babunya Afgan" // Bot name
+global.ownername = "Afgan" // Owner name
+global.owner = "628985720808" // Owner number
 global.botNumber = "6283893078836" //  Bot number
 global.version = "3.0.0" // Version
 
-global.packname = "Lyrra-Evanth" // Sticker packname 
-global.author = "Ai-Meta" // Sticker author
+global.packname = "Basurnya Afgan" // Sticker packname 
+global.author = "Ai Afgan" // Sticker author
 
 global.web = "" // Home web
-global.wm = "𝘓𝘺𝘺𝘳𝘢 𝘌𝘷𝘢𝘯𝘵𝘩𝘦" // Watermark thumbnail
+global.wm = "Afgan" // Watermark thumbnail
 global.wmbotfo = "Lyrra Inteligence" // Pakai font default
 
 // ================== [ ID & CHANNEL LINKS ] ================== //
